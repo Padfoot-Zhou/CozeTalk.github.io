@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/amphibian-dev/CozeTalk.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-28T03:23:50.355Z</updated>
+    <updated>2021-07-28T03:28:47.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/amphibian-dev/CozeTalk.github.io"/>
     <link rel="self" href="https://github.com/amphibian-dev/CozeTalk.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[CozeTalk-Net 人生指南]]></title>
-        <id>https://github.com/amphibian-dev/CozeTalk.github.io/post/cozetalk-net-ren-sheng-zhi-nan/</id>
-        <link href="https://github.com/amphibian-dev/CozeTalk.github.io/post/cozetalk-net-ren-sheng-zhi-nan/">
+        <id>https://github.com/amphibian-dev/CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/</id>
+        <link href="https://github.com/amphibian-dev/CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/">
         </link>
         <updated>2021-07-28T03:22:27.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://github.com/amphibian-dev/CozeTalk.github.io/post-images/1627442608685.png" alt="" loading="lazy"></figure>
