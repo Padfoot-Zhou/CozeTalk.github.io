@@ -3,7 +3,7 @@
     <id>https://padfoot-zhou.github.io/CozeTalk.github.io/</id>
     <title>CozeTalk</title>
 
-    <updated>2021-07-28T07:41:16.536Z</updated>
+    <updated>2021-07-28T08:48:21.219Z</updated>
 
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://padfoot-zhou.github.io/CozeTalk.github.io/"/>
@@ -14,19 +14,224 @@ We construct CozeTalk-Net to share Experience and Knowledge.</subtitle>
     <icon>https://padfoot-zhou.github.io/CozeTalk.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CozeTalk</rights>
     <entry>
-        <title type="html"><![CDATA[CozeTalk-Net 人生指南]]></title>
-        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/</id>
-        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/">
+        <title type="html"><![CDATA[【CozeTalk】AB测试和企业的实验文化]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-ab-ce-shi-he-qi-ye-de-shi-yan-wen-hua/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-ab-ce-shi-he-qi-ye-de-shi-yan-wen-hua/">
         </link>
-        <updated>2021-07-28T03:22:27.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627442608685.png" alt="" loading="lazy"></figure>
-<p>🎉CozeTalk-Net上线啦！</p>
-<p>CozeTalk希望通过每一位笔者的无私贡献，构建一张知识图谱，将各自的经验和知识串联起来。由于涉及的内容和领域较多，为方便不同阶段、不同领域的读者更容易索引到相关文献，引入CozeTalk-Net取代传统的目录形式。</p>
 
+        <updated>2021-07-28T08:43:38.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：就叫Frank</p>
+<p>📔目录：</p>
+<ol>
+<li>introduction</li>
+<li>为什么大厂大量推广A/B测试</li>
+<li>为什么大多数企业不大面积推广</li>
+<li>如何定义成功</li>
+<li>以某互金公司为例</li>
+<li>结语</li>
+</ol>
+<p>摘要：<br>
+这是两篇介绍 Booking.com 的实验⽂化（experimentation culture）和 A/B 测试如何在企业内部发展和运营的⽂章。这两篇HBR的⽂章让我读的实属过瘾。<br>
+⽂章的主旨是传播实验对 marketing 等 to C场景的重要性，以及实验⽂化的根本，同时介绍了 A/B 测试和测试⽂化在 Booking 内部是如何推⼴和使⽤的。这篇⽂章对任何⼀家 to C 业务的公司都具有⾮常⾼的价值。</p>
+<p>详情：</p>
 <p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】准妈妈囤货指南]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-zhun-ma-ma-dun-huo-zhi-nan/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-zhun-ma-ma-dun-huo-zhi-nan/">
+        </link>
+        <updated>2021-07-28T08:42:19.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：阿泰果</p>
+<p>📔目录：</p>
+<ol>
+<li>准妈妈囤货清单</li>
+<li>附录1：上海一妇婴东院-入院待产包</li>
+<li>附录2：共享文件</li>
+</ol>
+<p>摘要：<br>
+准妈妈们在孕中期，很容易产生“筑巢”心理。本文列出的清单，基本覆盖准妈妈们在孕中期到完成月子这段时间内需要的所有用品，让现阶段的购买更有目的性，查漏补缺。希望可以帮助各位准妈妈缓解焦虑，用更好的状态迎接宝宝的到来~<br>
+原本附录2罗列了笔者所购买的产品及价格，但是笔者并不想干扰各位准妈妈的判断，还是选择成为一个中立的第三方。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】十四五规划及2035远景-摘要]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-shi-si-wu-gui-hua-ji-2035-yuan-jing-zhai-yao/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-shi-si-wu-gui-hua-ji-2035-yuan-jing-zhai-yao/">
+        </link>
+        <updated>2021-07-28T08:40:52.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：Padfoot</p>
+<p>📔目录：<br>
+大纲同十四五规划</p>
+<p>摘要：<br>
+在新冠肺炎、国际局势动荡严峻的今天，作为一个个体，感到了深深的迷茫。通过国家十四五规划，了解我们的“大家”要如何应对风险，毕竟领航人，是咱家最睿智最有经验的人。希望可以通过阅读，提高自身的认知，同时了解给我们带来了怎样的机遇和挑战。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】低风险创业]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-di-feng-xian-chuang-ye/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-di-feng-xian-chuang-ye/">
+        </link>
+        <updated>2021-07-28T08:39:05.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：</p>
+<p>📔目录：<br>
+基石篇</p>
+<ol>
+<li>优雅的解决一个社会问题</li>
+<li>秘密是最好的抗风险武器</li>
+<li>反脆弱的结构设计</li>
+<li>小结<br>
+进阶篇</li>
+<li>团队管理</li>
+<li>增长</li>
+<li>我的故事</li>
+<li>总结</li>
+</ol>
+<p>摘要：<br>
+一个普通人要怎样创业？这个问题实在是太难了，难到让人望而却步。不过幸运的我，在抖音对樊登老师很感兴趣后，随即对樊老师进行了索引，发现了《低风险创业》这本书，感觉可以补足一些认知的不足。根据内容，将本书拆分为两篇侃一侃，分别为基石篇与进阶篇，基石篇解决的是创个什么业，而进阶篇更侧重管理与运营。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk-手把手】读财报]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-shou-ba-shou-du-cai-bao/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-shou-ba-shou-du-cai-bao/">
+        </link>
+        <updated>2021-07-28T08:36:35.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：Padfoot</p>
+<p>📔目录：</p>
+<ol>
+<li>数据准备</li>
+<li>数据处理</li>
+<li>数据详解</li>
+</ol>
+<p>摘要：<br>
+将《巴菲特教你读财报》中部分重要指标进行获取、加工、解读。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】《巴菲特教你读财报》摘要]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-lesslessba-fei-te-jiao-ni-du-cai-bao-greatergreater-zhai-yao/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-lesslessba-fei-te-jiao-ni-du-cai-bao-greatergreater-zhai-yao/">
+        </link>
+        <updated>2021-07-28T08:34:04.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：Padfoot</p>
+<p>📔目录：</p>
+<ol>
+<li>损益表</li>
+<li>资产负债表</li>
+<li>现金流量表</li>
+</ol>
+<p>摘要：<br>
+今年伯克希尔哈撒韦致股东上公布的各项数据和巴菲特老爷子的各种理念，引起了我这个股票投资小白的兴趣。毕竟，作为一个日常买基金被割韭菜的我，永远也不能理解巴老爷子的神迹。为探究竟，速读《巴菲特教你读财报》，以此书敲一敲股市的门。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】如何衡量你的人生-人生修炼手册-克莱顿·克里斯坦森]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-ru-he-heng-liang-ni-de-ren-sheng-ren-sheng-xiu-lian-shou-ce-ke-lai-dun-ke-li-si-tan-sen/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-ru-he-heng-liang-ni-de-ren-sheng-ren-sheng-xiu-lian-shou-ce-ke-lai-dun-ke-li-si-tan-sen/">
+        </link>
+        <updated>2021-07-28T08:28:56.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：Padfoot</p>
+<p>📔目录：<br>
+《如何衡量你的人生》-Part 1-职业发展</p>
+<ol>
+<li>制定目标及如何实现</li>
+<li>如何处理突发困难/机遇</li>
+<li>分配资源<br>
+《如何衡量你的人生》-Part 2-家庭、朋友与远离违法</li>
+<li>时间投入</li>
+<li>奶昔被雇佣来做什么</li>
+<li>你的孩子还是你的吗？</li>
+<li>经验学校</li>
+<li>家庭文化</li>
+<li>仅此一次的错误</li>
+</ol>
+<p>摘要：<br>
+记录一本陪我走过中年危机初期的书：<br>
+《你要如何衡量你的人生/How will you measure your Life》- 克莱顿·克里斯坦森（Clayton M.Christensen）。<br>
+这也是一本我推荐给最多同龄人的书。可能我是一个比较理性的人，有的时候过于理性可能比较容易陷入消极负面的情绪中，回头想来，造成这个状况的原因是自己的认知不够，就陷入了局部最优解*，此时依赖于自身的能力很难突破这种局限，由此带来了很多的困扰和焦虑。阅读这本书，在一些维度和层面上，拓宽了我的认知，增加了寻找到全局最优解的可能性（严谨的我并没有说，读了这本书，就能找到完全的正解）。<br>
+本书分为三部分衡量人生，职业发展、亲情&amp;友情、遵纪守法，由于本文对我的影响深远，计划使用一些篇幅展开聊一聊，故将原文分拆为两部分展开，第一部分为职业发展（绝大部分的人还是以事业论成败），第二部分为很多人忽略的部分，但是却更为重要的情感与原则。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】关于“富人思维”]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/guan-yu-fu-ren-si-wei/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/guan-yu-fu-ren-si-wei/">
+        </link>
+        <updated>2021-07-28T08:24:56.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：Padfoot</p>
+<p>📔目录：</p>
+<ol>
+<li>穷人为钱工作，富人让钱为他工作。</li>
+<li>资产负债表 及 现金流量表。</li>
+<li>想成为富人需要掌握的技能。</li>
+<li>吐槽 + 收尾</li>
+</ol>
+<p>摘要：<br>
+偶然看了一段关于经济危机中的机遇与挑战的短视频，让我第一次接触到罗伯特·清崎，在短短几分钟间，让我这个对财商基本没有认知的理工男提起了兴趣，搜索之下，才了解到他就是大名鼎鼎的《富爸爸穷爸爸》的作者。富爸爸当红的时候，我还是个不谙世事的学生，这次的我自然不想放过这个机会。正式阅读《富爸爸穷爸爸》这本书前，我优先了解了下清崎老师的文献集，看着这纷繁复杂的富爸爸系列，不太相关的口水书名，一股强烈的不适感油然而生，“他是一个骗子吧”的质疑在我脑中回荡。抱着批判的态度开始了这一趟阅读之旅。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】如何读一篇论文]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/ru-he-du-yi-pian-lun-wen/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/ru-he-du-yi-pian-lun-wen/">
+        </link>
+        <updated>2021-07-28T08:17:35.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：Padfoot</p>
+<p>📔目录：</p>
+<ol>
+<li>文章结构</li>
+<li>摘要</li>
+<li>重点阅读</li>
+<li>结果与结论</li>
+</ol>
+<p>摘要：<br>
+献给刚踏入研究领域又对论文头大的朋友们</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【CozeTalk】好好读书的意义]]></title>
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/hao-hao-du-shu-de-yi-yi/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/hao-hao-du-shu-de-yi-yi/">
+        </link>
+        <updated>2021-07-28T08:05:34.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：Padfoot</p>
+<p>📔目录：<br>
+-战点<br>
+-解惑<br>
+-工具</p>
+<p>摘要：<br>
+逐渐要敲开中年人这扇门…趁着双腿还未迈过这道槛，停了停脚步，回望下自己走过的路，提笔记录下一些关于读书的小事。</p>
+<p>详情：</p>
+<p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="" loading="lazy"></figure>
 
-<p>微信公众号：CozeTalk<br>
-<img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
