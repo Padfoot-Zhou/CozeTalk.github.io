@@ -1,2 +1,3 @@
-# CozeTalk.github.io <br>
-Official Wechat Account: CozeTalk. We construct CozeTalk-Net to share experience and Knowledge.
+# CozeTalk.github.io
+Official Wechat Account: CozeTalk.  <br>
+We construct CozeTalk-Net to share Experience and Knowledge.
