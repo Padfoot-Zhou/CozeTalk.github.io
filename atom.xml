@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://CozeTalk.github.io</id>
+    <id>https://padfoot-zhou.github.io/CozeTalk.github.io/</id>
     <title>CozeTalk</title>
-    <updated>2021-07-28T04:30:23.704Z</updated>
+    <updated>2021-07-28T04:42:30.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://CozeTalk.github.io"/>
-    <link rel="self" href="https://CozeTalk.github.io/atom.xml"/>
+    <link rel="alternate" href="https://padfoot-zhou.github.io/CozeTalk.github.io/"/>
+    <link rel="self" href="https://padfoot-zhou.github.io/CozeTalk.github.io/atom.xml"/>
     <subtitle>Official Wechat Account: CozeTalk. We construct CozeTalk-Net to share experience and Knowledge.</subtitle>
-    <logo>https://CozeTalk.github.io/images/avatar.png</logo>
-    <icon>https://CozeTalk.github.io/favicon.ico</icon>
+    <logo>https://padfoot-zhou.github.io/CozeTalk.github.io/images/avatar.png</logo>
+    <icon>https://padfoot-zhou.github.io/CozeTalk.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CozeTalk</rights>
     <entry>
         <title type="html"><![CDATA[CozeTalk-Net 人生指南]]></title>
-        <id>https://CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/</id>
-        <link href="https://CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/">
+        <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/</id>
+        <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-net-Guide-of-Life/">
         </link>
         <updated>2021-07-28T03:22:27.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://CozeTalk.github.io/post-images/1627442608685.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627442608685.png" alt="" loading="lazy"></figure>
 <p>🎉CozeTalk-Net上线啦！</p>
 <p>CozeTalk希望通过每一位笔者的无私贡献，构建一张知识图谱，将各自的经验和知识串联起来。由于涉及的内容和领域较多，为方便不同阶段、不同领域的读者更容易索引到相关文献，引入CozeTalk-Net取代传统的目录形式。</p>
 <p>目录链接：https://www.processon.com/view/link/60d15b7be401fd0e512b0519</p>
