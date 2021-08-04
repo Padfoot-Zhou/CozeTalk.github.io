@@ -2,7 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://padfoot-zhou.github.io/CozeTalk.github.io/</id>
     <title>CozeTalk</title>
+
     <updated>2021-08-04T11:29:59.503Z</updated>
+
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://padfoot-zhou.github.io/CozeTalk.github.io/"/>
     <link rel="self" href="https://padfoot-zhou.github.io/CozeTalk.github.io/atom.xml"/>
@@ -42,6 +44,7 @@ We construct CozeTalk-Net to share Experience and Knowledge.</subtitle>
         <id>https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-ab-ce-shi-he-qi-ye-de-shi-yan-wen-hua/</id>
         <link href="https://padfoot-zhou.github.io/CozeTalk.github.io/post/cozetalk-ab-ce-shi-he-qi-ye-de-shi-yan-wen-hua/">
         </link>
+
         <updated>2021-07-28T08:43:38.000Z</updated>
         <content type="html"><![CDATA[<p>作者：就叫Frank</p>
 <p>📔目录：</p>
@@ -238,4 +241,5 @@ We construct CozeTalk-Net to share Experience and Knowledge.</subtitle>
 <figure data-type="image" tabindex="1"><img src="https://padfoot-zhou.github.io/CozeTalk.github.io//post-images/1627450810556.png" alt="width=&quot;400&quot; height=&quot;133&quot;" loading="lazy"></figure>
 ]]></content>
     </entry>
+
 </feed>
