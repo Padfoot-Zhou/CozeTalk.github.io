@@ -3,6 +3,7 @@
 <br>
 We construct CozeTalk-Net to share Experience and Knowledge.<br>
 <p><a href="https://www.processon.com/view/link/60d15b7be401fd0e512b0519">CozeTalk-Net目录</a></p>
+<p><a href="https://padfoot-zhou.github.io/CozeTalk.github.io/">CozeTalk-Blog</a></p>
 <br>
 Official Wechat Account: CozeTalk.  
 <br>
